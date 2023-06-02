@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icons/1E64_notepad.0.svg</file>
+        <file>icons/applications-office.svg</file>
+        <file>icons/gpaste.svg</file>
+        <file>icons/copyq.svg</file>
+        <file>icons/applications-all.svg</file>
+    </qresource>
+</RCC>
